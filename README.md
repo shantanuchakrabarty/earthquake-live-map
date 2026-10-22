@@ -1,2 +1,4 @@
 # earthquake-live-map
-A real-time live map of earthquakes around the world
+
+# Starting out
+Planned tech stack: **HTML,CSS,JS**
